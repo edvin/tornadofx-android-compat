@@ -15,14 +15,14 @@ Include this dependency in your build:
 <dependency>
     <groupId>no.tornado</groupId>
     <artifactId>tornadofx-android-compat</artifactId>
-    <version>1.0</version>
+    <version>1.0.1</version>
 </dependency>
 ```
 
 ### Gradle
 
 ```groovy
-compile 'no.tornado:tornadofx-android-compat:1.0'
+compile 'no.tornado:tornadofx-android-compat:1.0.1'
 ```
 
 This project was created as a response to [this issue](https://github.com/edvin/tornadofx/issues/299).

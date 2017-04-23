@@ -6,7 +6,7 @@
 
     <groupId>no.tornado</groupId>
     <artifactId>tornadofx-android-compat</artifactId>
-    <version>1.0</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
     <name>TornadoFX Android Compatibility Layer</name>
     <description>Provides the missing JDK classes from the Android SDK.</description>
